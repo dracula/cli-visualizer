@@ -1,4 +1,4 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [cli-visualizer](https://github.com/dpayne/cli-visualizer)
 
 > A dark theme for [cli-visualizer](https://github.com/dpayne/cli-visualizer).
 
