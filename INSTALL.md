@@ -1,17 +1,13 @@
-### [Foobar](https://foobar.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/foobar.git
+### [cli-visualizer](https://github.com/dpayne/cli-visualizer)
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/dracula/cli-visualizer/archive/master.zip) option and unzip them.
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. open the dracula file on your text editor
+2. copy the file contents
+3. open the colors folder on vis config file, located on ~/.config/vis/colors/
+4. replace all the file content with the one you copied 
+5. Done!
