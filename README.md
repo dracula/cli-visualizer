@@ -1,20 +1,20 @@
 # Dracula for [Foobar](https://foobar.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [cli-visualizer](https://github.com/dpayne/cli-visualizer).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/cli-visualizer](https://draculatheme.com/cli-visualizer).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![Jobcmax](https://github.com/jobcmax.png?size=100)](https://github.com/jobcmax) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [Jobcmax](https://github.com/jobcmax)                                               |
 
 ## Community
 
