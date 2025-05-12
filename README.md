@@ -1,6 +1,6 @@
 # Dracula for [cli-visualizer](https://github.com/dpayne/cli-visualizer)
 
-> A dark theme for [cli-visualizer](https://github.com/dpayne/cli-visualizer).
+> A dark theme for [cli-visualizer](https://web.archive.org/web/20241018044754/https://github.com/dpayne/cli-visualizer).
 
 ![Screenshot](./screenshot.png)
 
@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/cli-visualizer](https://dracu
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Jobcmax](https://github.com/jobcmax.png?size=100)](https://github.com/jobcmax) |
-| --------------------------------------------------------------------------------- |
-| [Jobcmax](https://github.com/jobcmax)                                             |
+| [![natewhar](https://github.com/natewhar.png?size=100)](https://github.com/natewhar) |
+| ------------------------------------------------------------------------------------ |
+| [natewhar](https://github.com/natewhar)                                              |
 
 ## Community
 
