@@ -1,4 +1,4 @@
-# Dracula for [cli-visualizer](https://github.com/dpayne/cli-visualizer)
+# Dracula for [cli-visualizer](https://web.archive.org/web/20241018044754/https://github.com/dpayne/cli-visualizer)
 
 > A dark theme for [cli-visualizer](https://web.archive.org/web/20241018044754/https://github.com/dpayne/cli-visualizer).
 
